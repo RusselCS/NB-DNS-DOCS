@@ -2,64 +2,64 @@ List of Country Equivalencies
 ---
 ---
 
-First off, big shoutouts to Florian Deschanel#5444 in the Merry Mancer Games Discord. He put together a rather large document with a bunch of fan-theories on how shit works and it will be what I will be referencing when it comes to paralleling multi-country events which may seldom occur in the campaign based on your guys's actions.
+First off, big shoutouts to Florian Deschanel#5444 in the Merry Mancer Games Discord. He put together a rather large document with a bunch of fan-theories on how shit works and it will be what I will be referencing when it comes to paralleling multi-country events which may seldom occur in the campaign based on your guys's actions.  
 
-If you want to read what he's come up with here ya go: [https://docs.google.com/document/d/1FPD4njG2pRCNE5-kN0dv5kq_R9rOuOWL47L0k7fm0c8/edit](https://docs.google.com/document/d/1FPD4njG2pRCNE5-kN0dv5kq_R9rOuOWL47L0k7fm0c8/edit)
-(It's kinda long)
+If you want to read what he's come up with here ya go: [https://docs.google.com/document/d/1FPD4njG2pRCNE5-kN0dv5kq_R9rOuOWL47L0k7fm0c8/edit](https://docs.google.com/document/d/1FPD4njG2pRCNE5-kN0dv5kq_R9rOuOWL47L0k7fm0c8/edit)  
+(It's kinda long)  
 
-Another thing of note-- the countries *contained within* these "super nations" existed at one point or another. For example, you're allowed to reference individual Netopian countries such as Germany, the United States, Sweden, etc. Each of these countries is united under one flag now, but that doesn't mean they always were, *nor* does it mean those country's languages are completely gone from the face of the Earth.
+Another thing of note-- the countries *contained within* these "super nations" existed at one point or another. For example, you're allowed to reference individual Netopian countries such as Germany, the United States, Sweden, etc. Each of these countries is united under one flag now, but that doesn't mean they always were, *nor* does it mean those country's languages are completely gone from the face of the Earth.  
 
-Electopia - Japan (Primary setting)
-Netopia - Both Americas, Parts of Australia, and Europe (minus Britain)
-Creamland - Britain
-Nation Z - Middle East (Turkey, Arabian Peninsula, Iran)
-Netfrica - Africa
-Yumland - Asia South and West of Pakistan, 
-Choina - Asia North of Pakistan, south of Russia
-Sharo - Russia and Korea
+Electopia - Japan (Primary setting)  
+Netopia - Both Americas, Parts of Australia, and Europe (minus Britain)  
+Creamland - Britain  
+Nation Z - Middle East (Turkey, Arabian Peninsula, Iran)  
+Netfrica - Africa  
+Yumland - Asia South and West of Pakistan   
+Choina - Asia North of Pakistan, south of Russia  
+Sharo - Russia and Korea  
 
 Media and News
 ---
 ---
-**News**
-The year is 20XX.
-The crime syndicate Neo WWW was recently taken down. In its wake fell Cyber City's World Expo Center, which had planned to begin a public debut of a new type of technology-- the CopyBot.
-Media had split the opinion on the news. Some rejoicing the delay of the technology, damning it as a threat to society. Others expressing disappointment that technology will not proceed forward.
+**News**  
+The year is 20XX.  
+The crime syndicate Neo WWW was recently taken down. In its wake fell Cyber City's World Expo Center, which had planned to begin a public debut of a new type of technology-- the CopyBot.  
+Media had split the opinion on the news. Some rejoicing the delay of the technology, damning it as a threat to society. Others expressing disappointment that technology will not proceed forward.  
 
-Media has only given short glances at recent disappearances around the Rastro area while Officials continue to use most of their time in searching for the cause. This has led to small outbreaks of crime within the area. The Officials are paying for jobs they do not have the manpower to take care of around the city.
+Media has only given short glances at recent disappearances around the Rastro area while Officials continue to use most of their time in searching for the cause. This has led to small outbreaks of crime within the area. The Officials are paying for jobs they do not have the manpower to take care of around the city.  
 
-**Popular Culture and Social Media**
-On the front of everyday media (video games, books, television), many parallels can be drawn to real world stuff.
-- DOOM has already been referenced by a player.
-- The Boktai series (Officially referenced in Battle Network), is a series of Shounen-themed video games and manga following the adventures of a young vampire hunter named Django.
-- Facebook and Instagram are merged into one application-- *Facade*.
+**Popular Culture and Social Media**  
+On the front of everyday media (video games, books, television), many parallels can be drawn to real world stuff.  
+- DOOM has already been referenced by a player.  
+- The Boktai series (Officially referenced in Battle Network), is a series of Shounen-themed video games and manga following the adventures of a young vampire hunter named Django.  
+- Facebook and Instagram are merged into one application-- *Facade*.  
 
 Regions of Rastro
 ---
 ---
 
-**Drixel** - A quiet suburban town. Mostly neighborhoods. Home to some small restaurants or varying longevity, a decently-sized park, and North Rastro Public Academy. Also where most of the players live.
-**Downtown Rastro** - The busy downtown city. Absolutely huge. Your train pass puts you on a train that can *go* here, but disembarking  incurs a hefty fee.
-**Voxen** - Rastro's "historical district." Described as "overwhelmingly weeb," despite being in the country of origin and thus simply a bit more true to the country's older heritage. Several districts have been set aside within the town as homages to the heritage of other countries as well. A sort of "living museum," Voxen boasts a number of museums and libraries chronicling events throughout the history of the Electopia and the world. There is a forest past the northern border of town.
-**Naderen** - Rastro's industrial sector. Several factories and plants dot the area, providing labor to many robots and any companies that still believe in human labor. A geothermal powerplant is present near the base of Mt. Kaju.
-**Arcsen** - A more modernized suburban area than Drixel. Rapidly expanding construction sites are present, working to build offices and apartment complexes within the area. The Arcsen Shopping Center calls this area home, a 3-story mall with an open-air third floor.
+**Drixel** - A quiet suburban town. Mostly neighborhoods. Home to some small restaurants or varying longevity, a decently-sized park, and North Rastro Public Academy. Also where most of the players live.  
+**Downtown Rastro** - The busy downtown city. Absolutely huge. Your train pass puts you on a train that can *go* here, but disembarking  incurs a hefty fee.  
+**Voxen** - Rastro's "historical district." Described as "overwhelmingly weeb," despite being in the country of origin and thus simply a bit more true to the country's older heritage. Several districts have been set aside within the town as homages to the heritage of other countries as well. A sort of "living museum," Voxen boasts a number of museums and libraries chronicling events throughout the history of the Electopia and the world. There is a forest past the northern border of town.  
+**Naderen** - Rastro's industrial sector. Several factories and plants dot the area, providing labor to many robots and any companies that still believe in human labor. A geothermal powerplant is present near the base of Mt. Kaju.  
+**Arcsen** - A more modernized suburban area than Drixel. Rapidly expanding construction sites are present, working to build offices and apartment complexes within the area. The Arcsen Shopping Center calls this area home, a 3-story mall with an open-air third floor.  
 
 People You Should Know
 ---
 ---
-... Or at least know *about*. Most of you go to North Rastro Public Academy and will be familiar with people from there.
-Here's what you know about some of the folks there!
-**Characters who are marked as Contacts can be called upon in times of need. Don't be afraid to ask for help!!**
+... Or at least know *about*. Most of you go to North Rastro Public Academy and will be familiar with people from there.  
+Here's what you know about some of the folks there!  
+**Characters who are marked as Contacts can be called upon in times of need. Don't be afraid to ask for help!!**  
 
-**Logan Kira** - A longtime prankster and cross-country runner, Kira's been quite the showboat of the school. Despite his constantly bad behavior, he's relatively well-schooled and makes good grades.
-**Calliope Von Blitzschlag (Navi: Vibrato.EXE)** - A *slightly* pompous girl who comes from a rich Netopian family. She immigrated into Electopia around middle school and has since made a show of it. She's fairly popular and leads the Chorus Club at NRPA. Despite her "rich girl" name and family, she's got a punk rocker vibe and isn't afraid to show off.
-**Bonnie Voyage** (Navi: MetroMan.EXE) - An angry-looking office worker who does *not* like strangers. Kept silent for **Train 902**. Her Navi, MetroMan, is more talkative than he should be and is quick to trust strangers. Bonnie and MetroMan work for CryptoSylph SLN, a company who 5 years back created a new branch in Electopia. It is unknown who founded it, but they are financially benefiting from the rise in Net Crime.
-**Jack Kicho** (Navi: PressMan.EXE) - A relatively unkempt dude with messy hair and a shaggy face. Has a shaky voice and lacks a fair bit of confidence. Got the shit beat out of him during **Night Stalker.** His Navi is friendlier than he is, and constantly talks like the narrator of a TV show or news report.
-**ScanDroid.EXE** (NetOp: "Jerry") - An Ex-WWW Navi whose operator is in hiding. Specializes in information gathering. Is allied with FableWoman for reasons undisclosed.
-**SolarBoy.EXE** - An apparent movie star who takes on the role of any and all Solar Boys within the Boktai series. Utilizes a CopyBot to move in the physical world and interact with real people.
+**Logan Kira** - A longtime prankster and cross-country runner, Kira's been quite the showboat of the school. Despite his constantly bad behavior, he's relatively well-schooled and makes good grades.  
+**Calliope Von Blitzschlag (Navi: Vibrato.EXE)** - A *slightly* pompous girl who comes from a rich Netopian family. She immigrated into Electopia around middle school and has since made a show of it. She's fairly popular and leads the Chorus Club at NRPA. Despite her "rich girl" name and family, she's got a punk rocker vibe and isn't afraid to show off.  
+**Bonnie Voyage** (Navi: MetroMan.EXE) - An angry-looking office worker who does *not* like strangers. Kept silent for **Train 902**. Her Navi, MetroMan, is more talkative than he should be and is quick to trust strangers. Bonnie and MetroMan work for CryptoSylph SLN, a company who 5 years back created a new branch in Electopia. It is unknown who founded it, but they are financially benefiting from the rise in Net Crime.  
+**Jack Kicho** (Navi: PressMan.EXE) - A relatively unkempt dude with messy hair and a shaggy face. Has a shaky voice and lacks a fair bit of confidence. Got the shit beat out of him during **Night Stalker.** His Navi is friendlier than he is, and constantly talks like the narrator of a TV show or news report.  
+**ScanDroid.EXE** (NetOp: "Jerry") - An Ex-WWW Navi whose operator is in hiding. Specializes in information gathering. Is allied with FableWoman for reasons undisclosed.  
 
-[Contact] **Rica Sakazaki** (Navi: Maestro.EXE) - She's the leader of the recent Official-sponsored NetBattle Watch Team dubbed the Drixel Net Warriors. You may know her from even down to middle school. At some point she was out of school for a few weeks and when she returned she was missing an arm. Closer friends helped tend to her while she was resting and helped her catch up after she returned.
-[Contact] **Jest.EXE** - A ragdoll-looking Jester who runs an escape game in the Bradford Memorial Castle in Voxen. Befriended the party during their playthrough of said game. They have an operator but you haven't met them.
+[Contact] **Rica Sakazaki** (Navi: Maestro.EXE) - She's the leader of the recent Official-sponsored NetBattle Watch Team dubbed the Drixel Net Warriors. You may know her from even down to middle school. At some point she was out of school for a few weeks and when she returned she was missing an arm. Closer friends helped tend to her while she was resting and helped her catch up after she returned.  
+[Contact] **Jest.EXE** - A ragdoll-looking Jester who runs an escape game in the Bradford Memorial Castle in Voxen. Befriended the party during their playthrough of said game. They have an operator but you haven't met them.  
+[Contact] **SolarBoy.EXE** - An apparent movie star who takes on the role of any and all Solar Boys within the Boktai series. Utilizes a CopyBot to move in the physical world and interact with real people.  
 
 Misc Notes
 ---
@@ -77,9 +77,9 @@ Now, hard-wired devices are still legit. Their signal-to-noise ratio is tied dir
 | S-247 | SBC | BrowsCrs | DDOS Mechanism. Exploits vulnerability with Civilian Navis. |
 | S-035 | SBC | Geddon2 | Destruction Mechanism. Unconstrained, will erode and destroy entire systems. |
 
-1st Offense - Caught using Contraband leads to a warning. Article is *not* confiscated and no fine is issued.
-2nd Offense - Article is confiscated and party is searched for additional wares. Fee of half total ware's price.
-3rd Offense - Navi is taken into custody for repeated possession and use of illegal wares. NetOp is fined 10k Zenny.
+1st Offense - Caught using Contraband leads to a warning. Article is *not* confiscated and no fine is issued.  
+2nd Offense - Article is confiscated and party is searched for additional wares. Fee of half total ware's price.  
+3rd Offense - Navi is taken into custody for repeated possession and use of illegal wares. NetOp is fined 10k Zenny.  
 
 **Rastro Area Trash (Collection) System (RATS)** - RATS is a protocol that runs invisibly on the Rastro Net Areas. It is seldom seen, but is described as a gigantic creature with three tails, the size of at least two Navis. It operates unseen for the most part, removing junk unused data and forcefully Jacking-Out any downed Navis from all of Rastro's networking areas. Any Navis who cannot be Jacked Out are carried with the junk data to be deposited in some unknown location. It is not supposed to operate outside of the Rastro Network Areas and usually does not appear in active Net locations during the day hours.
 

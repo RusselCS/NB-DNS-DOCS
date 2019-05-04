@@ -1,8 +1,8 @@
-##How I've Hacked Netbattlers - A Brief Rundown On The Changes Made For My Nefarious Purposes
+## How I've Hacked Netbattlers - A Brief Rundown On The Changes Made For My Nefarious Purposes
 
 ---
 ---
-###Character Creation
+### Character Creation
 
 ---
 This campaign uses some aged-up NetOp characters of about high school level. With the release of NetBattlers Advance, there is a ruleset dictating how these should be handled.
@@ -15,7 +15,7 @@ However, rather than developing the character more, they relinquish more stat nu
 - Rather than Starting Chips, players are granted 500z for every Starting Chip they would have that they can spend on anything from the **shop**. An additional 500z is granted for each point in **Total Skill Increases** as well. Total formula for Starting Zenny is (Mind + Info + Skill Increases + 2) * 500z.
 
 ---
-###Growing Up
+### Growing Up
 
 ---
 Due to the pooled means of session in this game, all players level up at the same time. They are free to justify this growth in any way they feel, if at all. Every session grants one "Level Point" to everyone in the game. Once a certain number of "Level Points" have been attained, all characters level up. Leveling up is the same process as in normal NetBattlers- choose one Skill to add 1 point to. Skill allocations cannot exceed 5.
@@ -30,7 +30,7 @@ Once again, the pooled players and potential "drop-in"/"drop-out" system of *Dri
 
 
 ---
-###Respeccing
+### Respeccing
 
 ---
 Being locked into a character you don't like playing *sucks!* I will be allowing players to _respec_ their character any number of times. **Respeccing** is rebuilding a character. Changing numbers around to better fit some alternative goal. As long as it's within reason, I will allow any number of these respecs all the way down from the beginning. As long as the result is somewhat appropriate to the character's theme, I will allow it.
