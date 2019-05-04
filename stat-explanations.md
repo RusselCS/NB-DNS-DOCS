@@ -1,5 +1,4 @@
 # MIND
----
 ### Sense
 You are observant. You are accurate. You notice things many others have difficulty seeing. You make your shots count.
 - Used for firing projectiles.
@@ -29,8 +28,6 @@ You are a computer genius. You can code your way out of a cardboard box. You can
 
 ---
 # BODY
----
-
 ### Strength
 You're renowned for your muscle. You can lift and move heavy objects. Your attacks hit hard, whether with weapons or your body (Punches, kicks, swords, hammers, etc).
 - Used for damage in melee attacks. Narritavely, your melee attack could be a weapon or your fist or your foot.
@@ -60,8 +57,6 @@ You are hardy. Even when everyone else is exhausted, you can still keep on going
 
 ---
 # SOUL
----
-
 ### Charm
 You are cute. You are courteous. Most of all, you tend to get what you want from people and make them happy to help.
 
