@@ -1,6 +1,5 @@
 # MIND
 ---
----
 ### Sense
 You are observant. You are accurate. You notice things many others have difficulty seeing. You make your shots count.
 - Used for firing projectiles.
@@ -29,9 +28,7 @@ You are a computer genius. You can code your way out of a cardboard box. You can
 *Example 2: The vending machine at school has stopped working. The control panel is busted off... Roll Coding to fix the wiring and make the machine work again!*  
 
 ---
----
 # BODY
----
 ---
 
 ### Strength
@@ -62,9 +59,7 @@ You are hardy. Even when everyone else is exhausted, you can still keep on going
 *Example 2: You suffer a blow from an opponent. Roll Stamina to reduce your damage.*  
 
 ---
----
 # SOUL
----
 ---
 
 ### Charm
