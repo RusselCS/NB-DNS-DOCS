@@ -76,7 +76,7 @@ ThemeSong [1 EB] - On Jack-in, your presence has a loud, colorful fanfare, drawi
 Underflow [1 EB] - If a failed roll has three or more 1's, count it as a partial success instead.  
   
 **1000z:**  
-ZeroKnuckle [Impact | 3 Damage | Close] If you delete an enemy with this, you can use their element for a downshifted Affinity roll.   (Slow)
+ZeroKnuckle [Impact | 3 Damage | Close] If you delete an enemy with this, you can use their element for a downshifted Affinity roll.   (Slow)  
 Mole [Summon | Close] Summons a mole which digs a tunnel to a simple, nearby destination. (Slow)  
 StickyStick [Thrown | 2 Damage | Near] Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break. (Awkward)  
   
