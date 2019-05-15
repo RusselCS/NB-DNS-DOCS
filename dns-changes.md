@@ -12,7 +12,7 @@ However, rather than developing the character more, they relinquish more stat nu
 - **NetOps** must allocate a pool of (2/2/1/1/1) to their Skills.
 - **NetOps** may also pick 2 **Talents**. Talents are skills, hobbies, or topics your character is interested in. These can be used to replace rolls on relevant skill checks.
 - When creating a character, note the number of points visible next to **"Total Skill Increases."** For each point above 0, add a 1 to a Skill of your choice. (Skill allocations cannot exceed 5).
-- Rather than Starting Chips, players are granted 500z for every Starting Chip they would have that they can spend on anything from the **shop**. An additional 500z is granted for each point in **Total Skill Increases** as well. Total formula for Starting Zenny is (Mind + Info + Skill Increases + 2) * 500z.
+- Instead of Starting Chips, players are granted 500z for every Starting Chip they would have that they can spend on anything from the **shop**. An additional 500z is granted for each point in **Total Skill Increases** as well. Total formula for Starting Zenny is (Mind + Info + Skill Increases + 2) * 500z. **An additional 2000z is granted to players starting after the first Skill Increase.**
 
 ---
 ### Growing Up
