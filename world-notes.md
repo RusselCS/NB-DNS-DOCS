@@ -89,4 +89,6 @@ In addition, there are networks that can be accessed without having to Jack In. 
 
 **Novice Officials Cluster (NOC)** - A system put in place by the Officials that grants registered groups of individuals certain weaker rights as Officials. These groups are required to create Job Boards which must be available to the public for viewing and posting.
 
-**CopyBots** - Mechanized mannequins that can copy the appearance of a Navi. According to SolarBoy.EXE, the capabilities of CopyBots are limited to replication of body and voice, however. Navis apparently cannot utilize a large number of their latent abilities while utilizing one.
+**CopyBots** - Mechanized mannequins that can copy the appearance of a Navi. According to SolarBoy.EXE, the capabilities of CopyBots are limited to replication of body and voice, however. Navis apparently cannot utilize a large number of their latent abilities while utilizing one.  
+
+**Security Cubes** - They look almost like silver shipping canisters on the Net, large boxes that *contain* the network of their owners. Homes that do not have a Security Cube tend to be unoccupied in real life.
