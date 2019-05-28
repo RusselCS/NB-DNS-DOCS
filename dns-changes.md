@@ -36,3 +36,21 @@ Once again, the pooled players and potential "drop-in"/"drop-out" system of *Dri
 Being locked into a character you don't like playing *sucks!* I will be allowing players to _respec_ their character any number of times. **Respeccing** is rebuilding a character. Changing numbers around to better fit some alternative goal. As long as it's within reason, I will allow any number of these respecs all the way down from the beginning. As long as the result is somewhat appropriate to the character's theme, I will allow it.
 
 My only request is you are reasonable in your decision for changing your character. I feel the need to specify this because I would rather you not respec because your character "underperformed" in some mission, job, episode, etc. Perhaps your character will perform better on the next one. Having a different character every session is lame, I ask you as the player to not abuse this system.
+
+---
+### Running Combat
+
+---
+As established in the rulebook, there is no pre-established means of determining turn order.  
+If, for whatever reason, everyone wants to do something at the same time, a turn order will be established by asking everyone to roll NetOp Affinity. For ties, the NetOp with the highest total of Soul + Affinity will go first, for ties of *that*, check vs *just* Affinity. If all ties, roll NetOp Affinity again and repeat until there is a defined loser.  
+  
+Enemy turns will generally take place in-between player actions. A squad of 3 Mettaurs will have each Mettaur go between each player in a 3-person fight, for example.  
+The turn order also floats. If someone wishes to take advantage of a situation, they're free to cut in as long as they didn't immediately go within the last few actions.  
+  
+---
+### Diagrams
+
+---
+My descriptive writing skills suck. So, oftentimes, I will be drawing vague diagrams to better give a visual representation of what's going on. However, it's necessary to elaborate the *vagueness* of these diagrams. They are meant to commuicate the absolute bear minimum information possible and should not be used to gauge exact positions. Exact positions don't matter most of the time in NetBattlers, so unless it's pointed out something is on the edge of a cliff about to fall, don't think that it is just because the token representing it is in the visual space.  
+
+For example. Let's say MegaMan, GutsMan, and Roll are on a floating book in the middle of an infinite space-void and a Zomon appears and ambushes them. The Zomon jumps onto the book, landing on it gracefully with its sword drawn. When the Zomon is positioned in the diagram, it is merely slapped into position where it is most convenient, which could be somewhere on the edge of the book platform on the diagram. But recall where it was *described* to be. The Zomon is simply on the book, not necessarily on the edge. It could be in the middle of the group for all you know, it's just *on the book*.  
