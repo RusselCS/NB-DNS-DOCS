@@ -47,7 +47,7 @@ Regions of Rastro
 People You Should Know
 ---
 ---
-... Or at least know *about*. Most of you go to North Rastro Public Academy and will be familiar with people from there.  
+... Or at least know *about*. Most of you go to **North Rastro Public Academy (NRPA)** and will be familiar with people from there.  
 Here's what you know about some of the folks there!  
 **Characters who are marked as Contacts can be called upon in times of need. Don't be afraid to ask for help!!**  
 
