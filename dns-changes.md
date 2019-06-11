@@ -24,9 +24,9 @@ Due to the pooled means of session in this game, all players level up at the sam
 ### Bonds
 
 ---
-Once again, the pooled players and potential "drop-in"/"drop-out" system of *Drixel Net Squad* means that players are potentially transient and *many* relationships can form. When the players gain Skill Points from Growing Up, they will *also* gain a Bond Level with a player of their choice. These Bonds are two-way--If Abigail bonds with Johann, both players gain 1 Bond Level. Spending and recovery of Bond Points are handled as normal- spending freetime with a bonded player will restore bond points equal to the bond level between the two.
+Once again, the pooled players and potential "drop-in"/"drop-out" system of *Drixel Net Squad* means that players are potentially transient and *many* relationships can form. When the players gain Skill Points from Growing Up, they will *also* gain a Bond Level with a character of their choice. This can be a player character or a friendly NPC. (Please do not bond with my vallains unless you somehow manage to get them to sit in a room and sing kumbaya). These Bonds are two-way--If Abigail bonds with Johann, both players gain 1 Bond Level. Spending and recovery of Bond Points are handled as normal- spending freetime with bonded players will restore bond points equal to the max of the bond levels between the player and all of players present during the freetime.  
 
-**Example:** Abigail has a Bond Level of 2 with Johann. She spends 4 Bond Points during a particularly extreme scenario which necessitates Full Synchro. Afterwards, she spends an afternoon relaxing at the park with Johann, where they recount the events of the past week. Abigail regains 2 of her 4 spent Bond Points.
+**Example:** Abigail has a Bond Level of 2 with Johann and a Bond Level of 1 with Kirk. She spends 4 Bond Points during a particularly extreme scenario which necessitates Full Synchro. Afterwards, she spends an afternoon relaxing at the park with Johann and Kirk, where they recount the events of the past week. Abigail regains 2 of her 4 spent Bond Points.
 
 
 ---
