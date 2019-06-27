@@ -72,7 +72,7 @@ In addition, there are networks that can be accessed without having to Jack In. 
 
 **Network Regulations** - Several regulations are imposed on software that is allowed to run on the Net. No detection mechanisms are in place to trace use of this software in the public systems, but private systems may impose restrictions above and beyond the public standard (ie. hightened security on use of illegal wares, entirely disabling items not within a specified list, etc). The Officials have a public listing of all BattleChips and NaviCust Programs that are considered contraband.
 
-| SNo. | TYPE | NAME | AUDIT |
+| -SNo.- | TYPE | NAME | AUDIT |
 |------|------|------|------|
 | S-014 | SBC | ICEPick | Intrusion & Sabotage Mechanism. Allows user to bypass system securities. |
 | S-069 | SBC | EMPunch | Sabotage Mechanism. Can entirely disable software in a focused area. |
