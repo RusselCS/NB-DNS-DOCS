@@ -75,10 +75,15 @@ In addition, there are networks that can be accessed without having to Jack In. 
 | SNo. | TYPE | NAME | AUDIT |
 |------|------|------|------|
 | S-014 | SBC | ICEPick | Intrusion & Sabotage Mechanism. Allows user to bypass system securities. |
-| S-066 | SBC | EMPunch | Sabotage Mechanism. Can entirely disable software in a focused area. |
-| S-247 | SBC | BrowsCrs | DDOS Mechanism. Exploits vulnerability with Civilian Navis. |
-| S-035 | SBC | Geddon2 | Destruction Mechanism. Unconstrained, will erode and destroy entire systems. |
-
+| S-069 | SBC | EMPunch | Sabotage Mechanism. Can entirely disable software in a focused area. |
+| S-267 | SBC | BrowsCrs | DDOS Mechanism. Exploits vulnerability with Civilian Navis. |
+| S-037 | SBC | Geddon2 | Destruction Mechanism. Unconstrained, will erode and destroy entire systems. |
+| S-177 | MBC | Phoenix | Functionality unknown. Taps into software from unknown origin. Poses risk to public security. |
+| S-051 | SBC | PrfChaos | Tempest creation mechanism. Can cause widespread destruction over a long period. |
+| S-091 | SBC | Uninstll | Navi sabotage mechanism. Removing certain software may debilitate a Navi. |
+| S-080 | SBC | Nullfier | Navi sabotage mechanism. Disables fundamental Navi functionality. Potential to cause Navi to harm themselves inadvertantly. |
+| S-229 | SBC | TimeStpr | Clock hijack mechanism. Utilizes infrastructure exploit, setting process priority to MAX for up to 2e+18 cycles. System administration becomes unaware of user activity during this time. |  
+  
 1st Offense - Caught using Contraband leads to a warning. Article is *not* confiscated and no fine is issued.  
 2nd Offense - Article is confiscated and party is searched for additional wares. Fee of half total ware's price.  
 3rd Offense - Navi is taken into custody for repeated possession and use of illegal wares. NetOp is fined 10k Zenny.  
