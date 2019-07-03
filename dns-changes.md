@@ -47,6 +47,11 @@ If, for whatever reason, everyone wants to do something at the same time, a turn
 Enemy turns will generally take place in-between player actions. A squad of 3 Mettaurs will have each Mettaur go between each player in a 3-person fight, for example.  
 The turn order also floats. If someone wishes to take advantage of a situation, they're free to cut in as long as they didn't immediately go within the last few actions.  
   
+This is the most apt location to add the following explanations for Chip tags.  
+`Slow` Chips take a moment to activate. Often when they are used, at least one action should take place between the Chips being slotted in and it fully taking effect. You are usually written as "preparing an attack."  
+`Dangerous` Chips tend to have side-effects that can be potentially negative to anyone caught in range. Explosives, an aura of evil, and strong elemental bursts may fall under this.  
+`Awkward` Chips take a moment to *recover* from once their action is completed. The weapon could be heavy and have a lot of followthrough (ie Hammer, ChainRod), or the item requires moments to study and focus on (ie. SilverFist, MapView).  
+  
 ---
 ### Diagrams
 
