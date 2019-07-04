@@ -60,6 +60,7 @@ Here's what you know about some of the folks there!
 [Contact] **Rica Yamasaki** (Navi: Maestro.EXE) - Rica is a student at North Rastro Public Academy, age around 16. She leads the recent Official-sponsored NetBattle Watch Team dubbed the Drixel Net Warriors. You may know her from even down to middle school. At some point she was out of school for a few weeks and when she returned she was missing an arm. Closer friends helped tend to her while she was resting and helped her catch up after she returned.  
 [Contact] **Jest.EXE** - A ragdoll-looking Jester who runs an escape game in the Bradford Memorial Castle in Voxen. Befriended the party during their playthrough of said game. They have an operator but you haven't met them.  
 [Contact] **SolarBoy.EXE** - An apparent movie star who takes on the role of any and all Solar Boys within the Boktai series. Utilizes a CopyBot to move in the physical world and interact with real people.  
+[Contact] **Tephra Hotobashi** (Navi: MagmaMan.EXE) - Tephra Hotobashi is a student at North Rastro Public Academy, age aorund 16. She specializes in earth sciences, especially concerning plate tectonics and volcanic activity. She's quiet and nervous unless talking about a subject that specifically excites her, then she talks without punctuation.  
 
 Misc Notes
 ---
