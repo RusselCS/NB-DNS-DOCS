@@ -59,3 +59,21 @@ This is the most apt location to add the following explanations for Chip tags.
 My descriptive writing skills suck. So, oftentimes, I will be drawing vague diagrams to better give a visual representation of what's going on. However, it's necessary to elaborate the *vagueness* of these diagrams. They are meant to commuicate the absolute bear minimum information possible and should not be used to gauge exact positions. Exact positions don't matter most of the time in NetBattlers, so unless it's pointed out something is on the edge of a cliff about to fall, don't think that it is just because the token representing it is in the visual space.  
 
 For example. Let's say MegaMan, GutsMan, and Roll are on a floating book in the middle of an infinite space-void and a Zomon appears and ambushes them. The Zomon jumps onto the book, landing on it gracefully with its sword drawn. When the Zomon is positioned in the diagram, it is merely slapped into position where it is most convenient, which could be somewhere on the edge of the book platform on the diagram. But recall where it was *described* to be. The Zomon is simply on the book, not necessarily on the edge. It could be in the middle of the group for all you know, it's just *on the book*.  
+
+---
+### Custom Content
+
+---
+NetBattlers: Drixel Net Squad makes use of a few pieces of custom content to aid in character progression as well as progression of the overall plot of the campaign. Such content is listed below.  
+
+**Navi Errors** - Essentially a more permanent way to punish particularly dangerous play, highlight a sketchy situation, or grant additional power for a certain level of cost. You can read all about Errors in a document developed by SixOfSpades: http://bit.ly/2X3NVLT - Credit to him for coming up with the idea and publishing it for other people to use.  
+
+**Armament Artefacts** - The MacGuffin of my campaign, a set of ancient-looking equipment that grant a new Power that empowers one of your Skills and a frankly obscenely overpowered ability until Jack-Out, assuming you can spend one point in the relevant Core Stat and are willing to take an Error for an undefined period of time. Use with caution.  
+| NAME | STAT | SKILL+4 | EFFECT | POWER |
+|------|------|------|------|
+| MoltenPauldron | Body | Speed | Body melts, leaving a trail. | Sublimate(): Roll Speed to teleport to any location you were previously. |
+
+**Exabyte Expansions** - Exabyte Expansions sold in the Store come with a Series and a Name. You only gain the benefits of one Exabyte Expansion of a given Name. Purchasing all Expansions in a *Series* nets another reward (as noted in the store descriptions for that series). Expansions within the same series may not contain the same number of EB per piece.  
+
+Example:
+The first Exabyte expansions to be released are of the series HalfshellHero. These are four single-Exabyte upgrades with different names: "MoveOut", "DoubleTrouble", "CrazyAttack", and "SuperShredder." You can purchase one of each of these four to get +1 EB. Purchasing each of them again will serve you no direct benefit, unless you want the series reward- a free Custom+2.

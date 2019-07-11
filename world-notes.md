@@ -39,11 +39,14 @@ Regions of Rastro
 ---
 
 **Drixel** - A quiet suburban town. Mostly neighborhoods. Home to some small restaurants or varying longevity, a decently-sized park, and North Rastro Public Academy. Also where most of the players live.  
-**Downtown Rastro** - The busy downtown city. Absolutely huge. Your train pass puts you on a train that can *go* here, but disembarking  incurs a hefty fee.  
 **Voxen** - Rastro's "historical district." Described as "overwhelmingly weeb," despite being in the country of origin and thus simply a bit more true to the country's older heritage. Several districts have been set aside within the town as homages to the heritage of other countries as well. A sort of "living museum," Voxen boasts a number of museums and libraries chronicling events throughout the history of the Electopia and the world. There is a forest past the northern border of town.  
 **Naderen** - Rastro's industrial sector. Several factories and plants dot the area, providing labor to many robots and any companies that still believe in human labor. A geothermal powerplant is present near the base of Mt. Kaju.  
 **Arcsen** - A more modernized suburban area than Drixel. Rapidly expanding construction sites are present, working to build offices and apartment complexes within the area. The Arcsen Shopping Center calls this area home, a 3-story mall with an open-air third floor.  
-
+  
+**--Train Pass B-Class--**
+**Downtown Rastro** - The busy downtown city. Absolutely huge. Many private companies take residence within the buildings here. In the center of the region is a large statue of the city's founder in front of city hall.  
+**Modellis** - A popular suburban town at the peak of a major economic upswing. Rastro's Official HQ and SciLab branch call the same lot in this area home, just on the border with Downtown. There's a strange ruins here, a small part of which serves as a public attraction. Area is within its own school zone, so students from here will likely not be familiar to most of you.  
+  
 People You Should Know
 ---
 ---
@@ -51,8 +54,8 @@ People You Should Know
 Here's what you know about some of the folks there!  
 **Characters who are marked as Contacts can be called upon in times of need. Don't be afraid to ask for help!!**  
 
-**Logan Kira** - A longtime prankster and cross-country runner, Kira's been quite the showboat of the school. Despite his constantly bad behavior, he's relatively well-schooled and makes good grades.  
-**Calliope Von Blitzschlag (Navi: Vibrato.EXE)** - A *slightly* pompous girl who comes from a rich Netopian family. She immigrated into Electopia around middle school and has since made a show of it. She's fairly popular and leads the Chorus Club at NRPA. Despite her "rich girl" name and family, she's got a punk rocker vibe and isn't afraid to show off.  
+**Logan Kira** - A longtime prankster and cross-country runner, Kira's been quite the showboat of the school. Despite his constantly bad behavior, he's relatively well-schooled and makes good grades. Has operated many NetNavis over the course of the last several years.
+**Calliope Von Blitzschlag** (Navi: Vibrato.EXE) - A *slightly* pompous girl who comes from a rich Netopian family. She immigrated into Electopia around middle school and has since made a show of it. She's fairly popular and leads the Chorus Club at NRPA. Despite her "rich girl" name and family, she's got a punk rocker vibe and isn't afraid to show off.  
 **Bonnie Voyage** (Navi: MetroMan.EXE) - An angry-looking office worker who does *not* like strangers. Kept silent for **Train 902**. Her Navi, MetroMan, is more talkative than he should be and is quick to trust strangers. Bonnie and MetroMan work for CryptoSylph SLN, a company who 5 years back created a new branch in Electopia. It is unknown who founded it, but they are financially benefiting from the rise in Net Crime.  
 **Jack Kicho** (Navi: PressMan.EXE) - A relatively unkempt dude with messy hair and a shaggy face. Has a shaky voice and lacks a fair bit of confidence. Got the shit beat out of him during **Night Stalker.** His Navi is friendlier than he is, and constantly talks like the narrator of a TV show or news report.  
 **ScanDroid.EXE** (NetOp: "Jerry") - An Ex-WWW Navi whose operator is in hiding. Specializes in information gathering. Is allied with FableWoman for reasons undisclosed. Has a hairstyle reminscent of the musician Klayton Albert (Scandroid, Celldweller, Circle of Dust, etc.) but is more stylized like a futuristic robot soldier.  
