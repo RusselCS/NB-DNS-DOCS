@@ -69,8 +69,8 @@ NetBattlers: Drixel Net Squad makes use of a few pieces of custom content to aid
 **Navi Errors** - Essentially a more permanent way to punish particularly dangerous play, highlight a sketchy situation, or grant additional power for a certain level of cost. You can read all about Errors in a document developed by SixOfSpades: http://bit.ly/2X3NVLT - Credit to him for coming up with the idea and publishing it for other people to use.  
 
 **Armament Artefacts** - The MacGuffin of my campaign, a set of ancient-looking equipment that grant a new Power that empowers one of your Skills and a frankly obscenely overpowered ability until Jack-Out, assuming you can spend one point in the relevant Core Stat and are willing to take an Error for an undefined period of time. Use with caution.
-| NAME | STAT | SKILL | EFFECT | POWER |
-|------|------|------|------|
+| NAME | STAT | SKILL+4 | EFFECT | POWER |
+|------|------|------|------|------|
 | MoltenPauldron | Body | Speed | Body melts, leaving a trail. | Sublimate(): Roll Speed to teleport to any location you were previously. |
 
 **Exabyte Expansions** - Exabyte Expansions sold in the Store come with a Series and a Name. You only gain the benefits of one Exabyte Expansion of a given Name. Purchasing all Expansions in a *Series* nets another reward (as noted in the store descriptions for that series). Expansions within the same series may not contain the same number of EB per piece.  
