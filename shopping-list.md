@@ -133,7 +133,7 @@ NaviCust Programs
 **HP+2** [2 EB] - Raises maximum HP by two.  
 
 **3000z:**  
-**KernelPanic** [4 EB] - When you're at or below 2 HP, downshift all attacks.  
+**KernelPanic** [4 EB] - When you’re at or below 2 HP, add four dice to all attacks.  
 **Proxy** [4 EB] - Support chips that affect your Navi can affect another Navi instead.  
 
 **Exabyte Upgrades**  
