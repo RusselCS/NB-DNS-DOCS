@@ -116,12 +116,15 @@ NaviCust Programs
 **Trailblazer** [2 EB] - When you move range bands with a chip or roll, your element trails behind you.  
 **WaveRider** [2 EB] - When you use a Wave-type BattleChip at Near range, you can enter Close range of a target.  
 **ZennyMiner** [1 EB] - When you download virus data into a battlechip, an extra 400z downloads as well.  
+**Skill+1** [2 EB] - Raise the Skill of your choice by 1 point.  
+**NaviPower NCP** [3 EB] - Add a Navi Power of your choice to your Navi.  
 
 **2000z:**  
 **BarrelProcessor** [2 EB] - Shot BattleChips and Sense ranged attacks have no penalty at Far range.  
 **CashOut** [2 EB] - Spend 600z to add one die to a roll. (Use before rolling.)  
 **DualPipeline** [3 EB] - Can use two Shot BattleChips at the same time. Counts as two seperate attacks.  
 **LastStand** [5 EB] - When using Overload, all dice on your next roll are hits. Go to 0 HP.  
+**NaviPower NCP** [1-3 EB] - Upgrade a Navi Power of your choice. *(Please see NetBattlers Advance for a list of Navi Power Upgrades and their EB costs.)*  
 
 **2500z:**  
 **ChameleoCloak** [4 EB] - If you hold still for half a minute, you turn invisible to vision (until you move).  
