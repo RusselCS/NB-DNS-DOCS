@@ -140,8 +140,8 @@ NaviCust Programs
 *You only get the benefits of one expansion of a given name.*  
 
 *Halfshell Hero Series*  
-*Series Bonus: HP+2*  
-**MoveOut** [-1 EB] - +1 EB (Halfshell Hero Series 1/4 - Blue)  
-**DoubleTrouble** [-1 EB] - +1 EB (Halfshell Hero Series 2/4 - Red)  
-**CrazyAttack** [-1 EB] - +1 EB (Halfshell Hero Series 3/4 - Orange)  
-**SuperShredder** [-1 EB] - +1 EB (Halfshell Hero Series 4/4 - Purple)  
+*Series Bonus: HP+2 [2 EB]*  
+**MoveOut** [-1 EB] - +1 EB (Halfshell Hero Series 1/4 - Blue) - 3000z  
+**DoubleTrouble** [-1 EB] - +1 EB (Halfshell Hero Series 2/4 - Red) - 3000z  
+**CrazyAttack** [-1 EB] - +1 EB (Halfshell Hero Series 3/4 - Orange) - 3000z  
+**SuperShredder** [-1 EB] - +1 EB (Halfshell Hero Series 4/4 - Purple) - 3000z  
